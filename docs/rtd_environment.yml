@@ -1,5 +1,6 @@
 channels:
   - conda-forge
+  - opensourceeconomics
 
 dependencies:
   - python=3.7
@@ -14,7 +15,8 @@ dependencies:
   - pytest
   - numba
   - chaospy
-  - numdifftools
+  - patsy
+  - estimagic
 
   - pip:
     - sphinxcontrib-bibtex

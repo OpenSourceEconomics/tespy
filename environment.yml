@@ -27,6 +27,8 @@ dependencies:
   - nbsphinx
   - hypothesis
   - numdifftools
+  - patsy
+  - estimagic
 
   - pip:
     - isort

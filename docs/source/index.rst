@@ -51,6 +51,7 @@ With ``conda`` available on your path, installing and testing
    :hidden:
    :maxdepth: 2
 
+   econometrics
    nonlinear_equations
    optimization
    uncertainty_quantification
